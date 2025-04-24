@@ -1,6 +1,6 @@
 ### Olá
 
-I am a Brazilian Msc Computer Scientist interested in Distributed systems, Networks, Algorithms, Operating Systems and Cloud computing.
+I am a Brazilian PhD candidate Computer Scientist interested in Distributed systems, Networks, Algorithms, Operating Systems and Cloud computing.
 
 - [Research areas](https://homepages.dcc.ufmg.br/~gustavopantuza/)
 - [Personal Blog on Computer Science - pt-BR](https://blog.pantuza.com)
